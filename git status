@@ -1,0 +1,54 @@
+[33mcommit eefe73bc3e576a9dcd5df23ffde5c458856a77aa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: geancarlosgmartins@hotmail.com <geancarlosgmartins@hotmail.com>
+Date:   Fri Feb 11 20:05:07 2022 -0300
+
+    correções
+
+[33mcommit d36c532269a4a649f15aea99cccc88069de59258[m
+Merge: dbbc093 43e04a8
+Author: geancarlosgmartins@hotmail.com <geancarlosgmartins@hotmail.com>
+Date:   Fri Feb 11 19:56:28 2022 -0300
+
+    Corrigindo nome do curso de Docker
+
+[33mcommit dbbc093dc2948fbacf588aefaa294dc2e15fe736[m
+Author: geancarlosgmartins@hotmail.com <geancarlosgmartins@hotmail.com>
+Date:   Fri Feb 11 19:39:19 2022 -0300
+
+    Corrigindo nome do curso de Docker
+
+[33mcommit 43e04a85bd1dd9de8a651b2d8051ed23548c12d5[m[33m ([m[1;32mtitulo[m[33m)[m
+Author: geancarlosgmartins@hotmail.com <geancarlosgmartins@hotmail.com>
+Date:   Fri Feb 11 19:19:46 2022 -0300
+
+    Lista no inicio do titulo
+
+[33mcommit 83349c8d522404a805c6f7fc1a0ded70d0ff944d[m
+Author: geancarlosgmartins@hotmail.com <geancarlosgmartins@hotmail.com>
+Date:   Fri Feb 11 19:18:47 2022 -0300
+
+    Alterando título da pagina
+
+[33mcommit 4edc32e682fdb9a2599845c64f0ac6e0d7895848[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+Author: geancarlosgmartins@hotmail.com <geancarlosgmartins@hotmail.com>
+Date:   Fri Feb 11 18:26:52 2022 -0300
+
+    Renomeando para a versão ana
+
+[33mcommit 5e9068c7aebf7faa3544dbe06cb77341403cbe5b[m
+Author: geancarlosgmartins@hotmail.com <geancarlosgmartins@hotmail.com>
+Date:   Fri Feb 11 17:42:14 2022 -0300
+
+    Adicionando .gitignore
+
+[33mcommit 7a8e407b360955a07bdba6583da5ca3ab7d59634[m
+Author: geancarlosgmartins@hotmail.com <geancarlosgmartins@hotmail.com>
+Date:   Fri Feb 11 17:35:50 2022 -0300
+
+    Alteração
+
+[33mcommit 5303cf9524128dd2137e6d38d790a53ba4f98b66[m
+Author: geancarlosgmartins@hotmail.com <geancarlosgmartins@hotmail.com>
+Date:   Fri Feb 11 17:32:07 2022 -0300
+
+    Criando arquivo index.html com lista de cursos

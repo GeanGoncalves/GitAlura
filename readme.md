@@ -1,9 +1,38 @@
-<h1>Capacitação de Git e Github</h1>
 
-> GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. GitHub é amplamente utilizado por programadores para divulgação de seus trabalhos ou para que outros programadores contribuam com o projeto.
+# Curso de Git e GitHub
 
-### 🖥️Tecnologias utilizadas:
+Este repositório contém o material e exercícios do curso de **Git e GitHub**, cobrindo desde os conceitos básicos de controle de versão até o uso avançado de ferramentas de colaboração no GitHub.
 
-- HTML <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-- Git <img align="center" alt="Rafa-GIT" height="30" width="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-- GitHub <img align="center" alt="Rafa-GIT" height="30" width="30" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png">
+## 📚 Conteúdo do Curso
+
+1. **Introdução ao Git**
+   - Instalação e configuração do Git
+   - Conceitos de repositórios, commits e branches
+   - Controle de versão distribuído
+2. **Trabalhando com Git**
+   - Comandos essenciais: `git init`, `clone`, `add`, `commit`, `push`, `pull`
+   - Gerenciamento de branches: `git branch`, `checkout`, `merge`
+   - Resolução de conflitos
+3. **Introdução ao GitHub**
+   - Criando repositórios remotos
+   - Trabalhando com Pull Requests
+   - Issues e colaboração em projetos
+4. **Fluxo de Trabalho no GitHub**
+   - Forks e contribuições para projetos open-source
+   - GitHub Actions e automações
+   - Versionamento semântico
+
+## 🛠️ Ferramentas e Tecnologias
+
+- **Git**: Sistema de controle de versão distribuído.
+- **GitHub**: Plataforma de hospedagem de código e colaboração.
+
+
+## 📈 Próximos Passos
+
+Ao final deste curso, você estará apto a utilizar o **Git** para gerenciar versões de código e o **GitHub** para colaborar em projetos com outras pessoas, contribuindo para repositórios open-source ou gerenciando seus próprios projetos.
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Se encontrar problemas ou tiver sugestões, fique à vontade para abrir uma issue ou enviar um pull request.
+
